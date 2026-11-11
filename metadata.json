@@ -1,0 +1,6 @@
+{
+  "name": "SEU NEGÓCIO. MAS INTELIGENTE.",
+  "description": "Sistema operacional inteligente para pequenos empreendedores, MEIs e negócios brasileiros. Tudo que seu negócio precisa em um só lugar com inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
